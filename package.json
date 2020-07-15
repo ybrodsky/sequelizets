@@ -1,0 +1,19 @@
+{
+  "name": "sequelizets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.22",
+    "@types/validator": "^13.1.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.1",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  }
+}
